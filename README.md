@@ -1,5 +1,5 @@
 # Schroedinger
-Ein Simulator von quantenmechanischer Modelle- das Teilchen im Kasten, der harmonischer Oszillator, und die Potentialbarriere
+Ein Simulator von quantenmechanischen Modellen- das Teilchen im Kasten, der harmonischer Oszillator, und die Potentialbarriere.
 
 exe.py bietet eine benutzerfreundliche App als exe-Datei zum selber Simulieren. 
 
