@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+
+src/harmonic_oscillator/Harmonsciher Oszillator Eigenfunktion.py
+src/tunneling/Transmission Berechnen.py
